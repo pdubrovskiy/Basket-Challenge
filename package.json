@@ -2,6 +2,7 @@
   "name": "basket-challenge",
   "private": true,
   "version": "0.0.0",
+  "author": "Pavel D.",
   "type": "module",
   "scripts": {
     "dev": "vite",
